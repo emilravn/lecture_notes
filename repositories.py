@@ -93,7 +93,7 @@ GROUP_REPOS = [
     [
         "group n",
         "DevØps",
-        ["https://github.com/ITU-DevOps-N/itu-minitwit", "https://github.com/ITU-DevOps-N/go-minitwit"],
+        ["https://github.com/ITU-DevOps-N/go-minitwit"],
         "http://go-minitwit.duckdns.org/",
         "http://go-minitwit.duckdns.org:8080",
     ],
